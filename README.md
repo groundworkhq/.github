@@ -1,12 +1,14 @@
 <!-- <img src="https://raw.githubusercontent.com/groundworkhq/.github/main/assets/logo.svg" width="120" alt="groundwork"> -->
 
-# groundwork
+# Groundwork
 
-GCP infrastructure with batteries included.
+GCP infrastructure foundations for startups with batteries included.
 
 ## Philosophy
 
-When GCP provides it, we configure it. When it doesn't, we build it.
+> "We lay the groundwork, you build the product"
+
+Groundwork is an open-source project that provides a set of foundational Terraform modules and custom components to help startups quickly and securely set up their Google Cloud Platform (GCP) infrastructure. By leveraging best practices and pre-configured settings, Groundwork enables teams to focus on building their products without worrying about the complexities of cloud infrastructure.
 
 ## Repositories
 
